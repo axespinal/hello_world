@@ -16,4 +16,4 @@ Learn more about this project at https://axelespinal.com/projects/hello_world.
 The firmware is written in Arduino (C++). 
 
 - `arduino/test_cube.ino`: A 3D rotating cube demo to test the display and performance.
-- `arduino/tetris.ino`: A Tetris clone.
+- `arduino/nottetris.ino`: A simple Tetris-like game.
